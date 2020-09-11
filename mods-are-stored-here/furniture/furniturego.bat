@@ -1,0 +1,1 @@
+move furniture-6.3.1-1.12.2.jar %appdata%\.minecraft\mods\

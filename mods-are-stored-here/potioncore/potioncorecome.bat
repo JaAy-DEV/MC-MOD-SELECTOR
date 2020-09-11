@@ -1,0 +1,1 @@
+move %appdata%\.minecraft\mods\PotionCore-1.9_for_1.12.2.jar PotionCore-1.9_for_1.12.2.jar

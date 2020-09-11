@@ -1,0 +1,1 @@
+move PortalGun-1.12.2-7.1.0.jar %appdata%\.minecraft\mods\

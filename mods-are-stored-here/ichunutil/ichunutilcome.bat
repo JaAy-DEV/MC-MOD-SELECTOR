@@ -1,0 +1,1 @@
+move %appdata%\.minecraft\mods\iChunUtil-1.12.2-7.2.1.jar iChunUtil-1.12.2-7.2.1.jar

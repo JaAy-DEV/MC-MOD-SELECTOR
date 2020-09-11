@@ -1,0 +1,1 @@
+move %appdata%\.minecraft\mods\ironchest-1.12.2-7.0.72.847.jar ironchest-1.12.2-7.0.72.847.jar

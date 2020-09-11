@@ -1,0 +1,1 @@
+move %appdata%\.minecraft\mods\controllable-1.12.2-0.3.1.jar controllable-1.12.2-0.3.1.jar
